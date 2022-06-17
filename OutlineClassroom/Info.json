@@ -1,0 +1,7 @@
+{
+  "Id": "OutlineClassroom",
+  "DisplayName": "OutlineClassroom",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.5",
+  "EntryMethod": "OutlineClassroom.Main.Load"
+}

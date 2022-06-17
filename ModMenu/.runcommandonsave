@@ -1,0 +1,10 @@
+﻿[Debug]
+On = true
+
+; All keys can contain multiple values separated by '|'
+
+[PreSave]
+; Etc.
+
+[PostSave]
+Commands=Build.BuildSolution|OtherCommand

@@ -1,0 +1,7 @@
+{
+  "Id": "HuntingTrophyFix",
+  "DisplayName": "HuntingTrophyFix",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.5",
+  "EntryMethod": "HuntingTrophyFix.Main.Load"
+}

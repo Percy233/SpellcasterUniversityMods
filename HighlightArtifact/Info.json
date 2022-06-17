@@ -1,0 +1,7 @@
+{
+  "Id": "HighlightArtifact",
+  "DisplayName": "HighlightArtifact",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.22.5",
+  "EntryMethod": "HighlightArtifact.Main.Load"
+}
